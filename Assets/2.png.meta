@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8d2467b7076832e42a5b36b892152b2b
+guid: 6fe9f8ea1d5769a47a6d0b6da664b24c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3879725724757082623
-    second: pngtree-start-button-for-games-vector-png-image_16436865_0
+      213: 6937817954938267909
+    second: 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-start-button-for-games-vector-png-image_16436865_0
+      name: 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 640
-        height: 640
+        x: 28
+        y: 120
+        width: 223
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff14712bdfd87d530800000000000000
-      internalID: 3879725724757082623
+      spriteID: 5092c600ca4184060800000000000000
+      internalID: 6937817954938267909
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pngtree-start-button-for-games-vector-png-image_16436865_0: 3879725724757082623
+      2_0: 6937817954938267909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
